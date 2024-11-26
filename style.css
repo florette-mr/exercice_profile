@@ -1,0 +1,56 @@
+
+ p{
+ 	font-size: 20px;
+ 	color:#9d8189;
+ }
+
+.medium-img{
+	height: 250px;
+	width: 250px;
+	border-radius:200px;
+	object-fit:cover;
+}
+
+body{
+	background-color:#9d8189;
+}
+
+h1{
+	font-family: "Libre Baskerville", serif;
+	font-size: 30px;
+	text-align:center;
+	color:#9d8189;
+}
+
+.flexbox {
+	display: flex;
+	border-radius:200px;
+	margin: 80px;
+	padding: 40px;
+	border: 30px solid royalblue;
+
+}
+.cards {
+	display: flex;
+	align-items: center;
+	justify-content:space-between;
+	padding: 10px;
+}
+
+
+
+.titre{
+	background-color: #e3d5ca;
+	border-radius:200px;
+	text-align: center;
+}
+
+.color {
+	background-color: #e3d5ca;
+	border-radius:200px;
+	padding:50px;
+}
+#fa-brands fa-tiktok{
+	height: 30px;
+	width: 30px;
+}
